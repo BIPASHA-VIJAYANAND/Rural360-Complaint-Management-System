@@ -1,0 +1,4 @@
+SMTPAuthError: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2b242642c5asm126026455ad.7 - gsmtp')
+SMTPAuthError: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2b2427c3a4esm163269785ad.78 - gsmtp')
+SMTPAuthError: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2b24264286fsm133843095ad.14 - gsmtp')
+Exception: 'charmap' codec can't encode character '\u2705' in position 7: character maps to <undefined>
