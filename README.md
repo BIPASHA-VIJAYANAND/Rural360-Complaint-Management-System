@@ -1,6 +1,4 @@
-# Panchayat Grievance Redressal System
-
-**Academic Project — Design of Smart Cities (VIT Semester 4)**
+# Rural360-Complaint-Management-System
 
 A full-stack, production-oriented grievance redressal portal for Gram Panchayat operations. Citizens can file, track, and provide feedback on complaints. Clerks, Staff, and Admins manage workflows, assign tasks, and monitor resolution metrics.
 
